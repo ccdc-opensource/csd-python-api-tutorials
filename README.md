@@ -1,11 +1,8 @@
-# csd-python-api-tutorials
-Python scripts relating to the CSD Python API for virtual workshops, self-guided workshops, videos and educational tutorials.
+# CSD Python API Tutorials
 
 <img src="assets/csd-python-api-logo.png" width="100px">
 
-# CSD Python API Scripts
-
-A repository containing scripts that have been created to leverage the toolkit found within
+This repository contains Python scripts for virtual workshops, self-guided workshops, videos and educational tutorials. The scripts leverage the toolkit found within
 the [CCDC portfolio](https://www.ccdc.cam.ac.uk/solutions/) that are accessible via
 the [CSD Python API](https://www.ccdc.cam.ac.uk/solutions/csd-core/components/csd-python-api/).
 
@@ -19,7 +16,6 @@ The purpose of this platform is to distribute knowledge and allow for scientific
 .
 ├─ assets                  # Images for documentation
 ├─ scripts                 # Python scripts 
-├─ notebooks               # Jupyter notebooks
 ├─ LICENSE
 └─ README.md
 ```
@@ -50,7 +46,7 @@ This will open the content in a tab where you can `Right-Click` in the text and 
 
 You will be asked to in your file explorer where you wish to save the file. Please specify the file extension at this point, by default `.txt` is used (For python scripts `.py` is required.)  
 
-<img src="assets/single_download.gif" width="500px">
+<img src="assets/save_script.gif" width="500px">
 
 ## Running scripts through the CSD Python API Miniconda installed 
 This requires you to already have the CSD Python API installed. Activate the environment as described in
